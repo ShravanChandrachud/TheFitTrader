@@ -4,7 +4,7 @@ import Service from './pages/Service'
 import Contact from './pages/Contact'
 import { useState } from 'react'
 import './App.css'
-
+import './pages/styles/PageLayout.css'
 function App() {
 
   return (
